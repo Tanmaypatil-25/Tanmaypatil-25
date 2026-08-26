@@ -5,7 +5,8 @@
 ### `Software Developer // MERN // Java // DSA`
 
 <p>
-  Building real-world applications, solving algorithmic problems, and improving one commit at a time.
+  Building real-world applications, solving algorithmic problems,<br>
+  and improving one commit at a time.
 </p>
 
 <p>
@@ -46,7 +47,7 @@ const tanmay = {
     "Problem Solving"
   ],
 
-  goal: "Build strong engineering skills and work on impactful software",
+  goal: "Build impactful software and grow as a software engineer",
 
   mindset: "Build. Break. Learn. Improve."
 };
@@ -92,7 +93,6 @@ Stack       : React • Node.js • Express • MongoDB • Socket.io
 Auth        : JWT
 Media       : Cloudinary
 Deployment  : Vercel
-Status      : Active Development
 ```
 
 A real-time chat application built using the MERN stack and Socket.io.
@@ -191,25 +191,29 @@ Focus       : DSA + Problem Solving
 
 ---
 
-## `~/github-stats`
+## `~/github`
+
+```bash
+tanmay@github:~$ profile --status
+
+Username      : Tanmaypatil-25
+Role          : Software Developer
+Focus         : Full Stack Development
+Primary Lang  : Java
+Web Stack     : MERN
+DSA           : 200+ LeetCode Problems
+Projects      : Lumo • WanderLust
+```
 
 <div align="center">
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=Tanmaypatil-25&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-/>
+<a href="https://github.com/Tanmaypatil-25">
+  <img src="https://img.shields.io/github/followers/Tanmaypatil-25?label=Followers&style=for-the-badge&logo=github&color=111111" />
+</a>
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmaypatil-25&layout=compact&hide_border=true&theme=github_dark"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmaypatil-25&theme=github-dark-blue&hide_border=true"
-/>
+<a href="https://github.com/Tanmaypatil-25?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-Repositories-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
