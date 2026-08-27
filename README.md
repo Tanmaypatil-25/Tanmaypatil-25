@@ -99,14 +99,7 @@ A real-time chat application built using the MERN stack and Socket.io.
 
 **Features**
 
-- Real-time one-to-one messaging
-- Online user presence
-- JWT authentication
-- Protected routes
-- Image sharing
-- Profile management
-- Responsive chat interface
-- MongoDB message storage
+- Explore repository 👇
 
 <p>
   <a href="https://github.com/Tanmaypatil-25/Lumo">
@@ -135,15 +128,7 @@ A full-stack accommodation listing platform inspired by Airbnb.
 
 **Features**
 
-- User signup and login
-- Listing CRUD operations
-- Reviews and ratings
-- Authorization and ownership validation
-- Image uploads using Cloudinary
-- Interactive maps using Leaflet
-- OpenStreetMap geocoding
-- Server-side validation
-- Responsive interface
+- Explore repository 👇
 
 <p>
   <a href="https://github.com/Tanmaypatil-25/WanderLust">
@@ -189,109 +174,9 @@ Focus       : DSA + Problem Solving
   </a>
 </p>
 
----
-
-## `~/github`
-
-```bash
-tanmay@github:~$ profile --status
-
-Username      : Tanmaypatil-25
-Role          : Software Developer
-Focus         : Full Stack Development
-Primary Lang  : Java
-Web Stack     : MERN
-DSA           : 200+ LeetCode Problems
-Projects      : Lumo • WanderLust
-```
-
-<div align="center">
-
-<a href="https://github.com/Tanmaypatil-25">
-  <img src="https://img.shields.io/github/followers/Tanmaypatil-25?label=Followers&style=for-the-badge&logo=github&color=111111" />
-</a>
-
-<a href="https://github.com/Tanmaypatil-25?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-Repositories-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
 
 ---
 
-## `~/currently`
-
-```bash
-tanmay@github:~$ current-focus
-
-[+] Building production-oriented MERN projects
-[+] Revising Data Structures & Algorithms
-[+] Learning Next.js
-[+] Exploring System Design
-[+] Improving problem-solving skills
-[+] Preparing for software engineering internships
-
-tanmay@github:~$ _
-```
-
----
-
-## `~/developer-status`
-
-```bash
-tanmay@github:~$ git status
-
-On branch growth
-
-Changes to be committed:
-
-  modified:   problem-solving
-  modified:   software-engineering
-  modified:   full-stack-development
-
-New files:
-
-  nextjs/
-  system-design/
-  open-source/
-  better-projects/
-
-nothing to stop me. keep shipping.
-```
-
----
-
-## `~/workflow`
-
-```text
-             ┌──────────────────┐
-             │      Learn       │
-             └────────┬─────────┘
-                      │
-                      ▼
-             ┌──────────────────┐
-             │      Build       │
-             └────────┬─────────┘
-                      │
-                      ▼
-             ┌──────────────────┐
-             │      Break       │
-             └────────┬─────────┘
-                      │
-                      ▼
-             ┌──────────────────┐
-             │      Debug       │
-             └────────┬─────────┘
-                      │
-                      ▼
-             ┌──────────────────┐
-             │     Improve      │
-             └────────┬─────────┘
-                      │
-                      └──────────────► repeat
-```
-
----
 
 ## `~/connect`
 
